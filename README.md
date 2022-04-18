@@ -1,2 +1,0 @@
-# .github
-Grayz Studios Readme
